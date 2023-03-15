@@ -4,22 +4,25 @@ _An "add-a-gram" is a sequence of words formed by starting with a 3-letter word,
 _adding a letter and rearranging to form a 4-letter word, and so on._ 
 _For example, here are add-a-grams of the words "CREDENTIALS" and "ANACHRONISM":_
 
-_ail + s =_
-_sail + n =_
-_nails + e =_
-_aliens + t =_
-_salient + r =_
-_entrails + c =_
-_clarinets + e =_
-_interlaces + d = CREDENTIALS (length 11)_
+    ail + s =
+    sail + n =
+    nails + e =
+    aliens + t =
+    salient + r =
+    entrails + c =
+    clarinets + e =
+    interlaces + d =
+    CREDENTIALS (length 11)
 
-_mar + c =_
-_cram + h =_
-_march + s =_
-_charms + o =_
-_chromas + n =_
-_monarchs + i =_
-_harmonics + a = maraschino + n = ANACHRONISM (length 11)_
+    mar + c =
+    cram + h =
+    march + s =
+    charms + o =
+    chromas + n =
+    monarchs + i =
+    harmonics + a = 
+    maraschino + n = 
+    ANACHRONISM (length 11)
 
 _Test your own credentials: given the dictionary found here, what is the longest_
 _add-a-gram?_
